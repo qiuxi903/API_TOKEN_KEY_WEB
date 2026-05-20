@@ -253,7 +253,12 @@ NODE_ENV=production
 
 ## 📄 许可证
 
-MIT License - 详见 [LICENSE](LICENSE) 文件
+AGPL-3.0 License - 详见 [LICENSE](LICENSE) 文件
+
+本项目采用 GNU Affero General Public License v3.0，这意味着：
+- ✅ 可以自由使用、修改和分发
+- ✅ 必须保留原作者署名和许可证声明
+- ✅ 如果作为网络服务提供，必须公开源代码
 
 ## 📞 联系方式
 
