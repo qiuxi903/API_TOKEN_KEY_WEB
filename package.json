@@ -1,0 +1,13 @@
+{
+  "name": "api-token-key",
+  "version": "1.0.0",
+  "description": "AI Model API endpoint testing tool",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
